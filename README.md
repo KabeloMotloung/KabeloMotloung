@@ -8,7 +8,7 @@
 ### :woman_technologist: About Me :
 
 
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/COS301-SE-2024/MiniProject10)
+- 🔭 I’m currently working on [ABC Travel Planner](https://github.com/COS301-SE-2024/ABC-Travel-Planner)
 
 - 🌱 I’m currently learning **Firebase, Nextjs, Nestjs**
 
