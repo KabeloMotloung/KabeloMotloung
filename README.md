@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Twitter Clone](https://github.com/COS301-SE-2024/MiniProject10)
 
-- 🌱 I’m currently learning **Supabase, Nextjs, Nestjs**
+- 🌱 I’m currently learning **Firebase, Nextjs, Nestjs**
 
 - 💬 Ask me about **C++, Java, Javascript, React**
 
