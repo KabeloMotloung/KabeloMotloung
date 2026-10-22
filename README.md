@@ -1,25 +1,20 @@
-# Hello! 👋 I'm Kabelo
+# Hi, I'm Kabelo 👋
 
-A passionate Software Engineer from South Africa
+Backend software engineer in South Africa, mainly building cloud-native services with C#/.NET.
 
-## 🛠️ Technologies & Tools
+## Stack
 
-- **Languages:** C#, Java, C++, JavaScript, Python
-- **Frameworks:** .NET, Django, Spring Boot, React, NextJS, NestJS
-- **Databases:** Microsoft SQL Server, PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes
+- **Primary:** C#, .NET, ASP.NET Core
+- **Also work with:** Java (Spring Boot)
+- **Data:** Microsoft SQL Server, PostgreSQL
+- **Cloud and delivery:** Azure, Docker, Kubernetes
+- **Tooling:** Git
 
-## 🎓 Education
-- 🎓 BScHons Computer Science from the University of Pretoria
-- 🎓 BSc Computer Science from the University of Pretoria
+## Education
 
-## 🌐 Where to find me
+- BSc Honours, Computer Science, University of Pretoria
+- BSc Computer Science, University of Pretoria
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kabelo-motloung-02b99320b/)
+## Contact
 
-
-Thanks for stopping by! Feel free to contact me for collaborations, opportunities, or just a chat.
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/kabelo-motloung-02b99320b/)
